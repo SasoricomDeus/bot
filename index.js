@@ -6,9 +6,6 @@ const {
   adicionarRecrutamento, 
   atualizarMensagemPlacar,
   iniciarVerificacaoResets 
-} = require('./placar-manager.js');
-
-
 const {
   Client,
   GatewayIntentBits,
@@ -1849,11 +1846,5 @@ client.on(Events.GuildMemberUpdate, async (oldMember, newMember) => {
 
     if (changed) {
       await atualizarNickname(newMember);
-    }
-  } catch (error) {
-    console.log("Erro em GuildMemberUpdate:", error);
-  }
-});
-
 // ======= Login =======
 client.login(TOKEN);
