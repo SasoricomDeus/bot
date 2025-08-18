@@ -1,12 +1,6 @@
 require('./keep_alive.js');
 const { pedidos, config, cargos, servidores } = require('./auto-save.js');
 const { 
-  iniciarVerificacaoResets, 
-  atualizarMensagemPlacar, 
-  configurarTipoPlacar,
-  PLACAR_CONFIG 
-} = require('./placar-manager.js');
-const { 
   PLACAR_CONFIG, 
   configurarTipoPlacar, 
   adicionarRecrutamento, 
