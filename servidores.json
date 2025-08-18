@@ -1,0 +1,35 @@
+{
+  "autorizados": {
+    "1404517797299486822": {
+      "name": "ROTA - 1º Batalhão VNL RP",
+      "id": "1404517797299486822",
+      "ownerId": "890371269164400670",
+      "ownerTag": "s5ntss",
+      "memberCount": 36,
+      "createdAt": "2025-08-11T17:32:17.555Z",
+      "requestedAt": 1755542269760,
+      "authorizedAt": 1755542301315
+    },
+    "1393778040890462209": {
+      "name": "Rainbow six - gameplay dos clts",
+      "id": "1393778040890462209",
+      "ownerId": "1316376286607704116",
+      "ownerTag": "hs_nunes",
+      "memberCount": 19,
+      "createdAt": "2025-07-13T02:16:20.092Z",
+      "requestedAt": 1755542269283,
+      "authorizedAt": 1755542304002
+    },
+    "1365419023826948137": {
+      "name": "PMBA 👑- VNL🚔Só os fortes entram",
+      "id": "1365419023826948137",
+      "ownerId": "844336803096166410",
+      "ownerTag": "stizk01",
+      "memberCount": 38,
+      "createdAt": "2025-04-25T20:07:43.539Z",
+      "requestedAt": 1755542268606,
+      "authorizedAt": 1755542305841
+    }
+  },
+  "pendentes": {}
+}
