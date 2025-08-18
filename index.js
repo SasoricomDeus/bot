@@ -9,8 +9,6 @@ const {
 } = require('./placar-manager.js');
 
 
-
-
 const {
   Client,
   GatewayIntentBits,
